@@ -30,6 +30,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
+#### ETC
+AI 활용 능력, 바이브 코딩, 프롬프트 엔지니어링
 ---
 
 ### 🌱 관심사
