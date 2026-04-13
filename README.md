@@ -14,6 +14,7 @@
 #### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -30,13 +31,18 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
+#### Architecture & DevOps
+![DDD](https://img.shields.io/badge/DDD-FF6F00?style=flat-square&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 #### ETC
 AI 활용 능력, 바이브 코딩, 프롬프트 엔지니어링
 
 ---
 
 ### 🌱 관심사
-- **기술**: 소프트웨어 아키텍처, 효율적인 시스템 설계
+- **기술**: 소프트웨어 아키텍처, DDD 설계, 배포 자동화, DevOps
 - **개발 도메인**: 운동 및 헬스케어 관련 서비스, SNS
 - **기타**: 근력 운동, 경제, 철학
 
