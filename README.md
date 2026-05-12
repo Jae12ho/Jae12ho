@@ -41,7 +41,7 @@ https://konact.net
 ![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 #### ETC
-AI 활용 능력, 바이브 코딩, 프롬프트 엔지니어링
+AI 활용 능력, 바이브 코딩, 프롬프트 엔지니어링, 하네스 엔지니어링
 
 ---
 
